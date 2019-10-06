@@ -33,7 +33,7 @@ By default, the code uses **cifar10** dataset from torchvision for model trainin
 
 a.You need to specify the <font color=CornflowerBlue>net</font> you want to train using arg `-net`  
 b.You need to specify the  <font color=CornflowerBlue>number of labels</font> you want to train using arg `-num_class` 
-c.You need to specify Whether to <font color=CornflowerBlue>initialize the weight</font> you want to train using arg `-initialize`
+c.You need to specify Whether to <font color=CornflowerBlue>initialize the weight</font> you want to train using arg `-initialize`  
 d.You need to specify the <font color=CornflowerBlue>learning rate</font> you want to train using arg `-lr`
 
 For example
