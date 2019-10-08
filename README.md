@@ -38,7 +38,7 @@ d.You need to specify the <font color=CornflowerBlue>learning rate</font> you wa
 
 For example
 ```bash
-$ python test.py -net resnet18 -num_class 10 -initialize True -lr 0.001
+$ python train.py -net resnet18 -num_class 10 -initialize True -lr 0.001
 ```
 
 **3.models and papers**
